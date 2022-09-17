@@ -1,3 +1,4 @@
+参考文章包括：
 ### 随机森林建立肤色检测模型参考链接
 https://blog.csdn.net/gxf1027/article/details/8264794
 
